@@ -123,13 +123,11 @@ namespace finalProject
 
                             if (Options.Register)
                             {
-                                // Якщо треба суворий регістр — просто порівнюємо
                                 if (cText != cWord) { match = false; break; }
                             }
                             else
                             {
-                                // Якщо регістр не важливий — порівнюємо "в лоб"
-                                // Перевіряємо: або вони рівні, або одна велика, інша мала
+                               
                                 if (cText != cWord &&
                                     char.ToUpper(cText) != char.ToUpper(cWord))
                                 {
@@ -140,9 +138,7 @@ namespace finalProject
 
                         if (match)
                         {
-                            // Завдання вимагає рівно 7 зірочок (*******)
-                            // Але ми замінюємо саме знайдете слово, щоб не "зсунути" текст
-                            // Якщо треба саме 7 — то краще замінити все слово на зірочки
+                            
                             for (int k = 0; k < word.Length; k++)
                             {
                                 letters[i + k] = '*';
