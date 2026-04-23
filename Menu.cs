@@ -52,7 +52,7 @@ namespace finalProject
             {
                 Console.Write($" Слово: {Options.Words.Count + 1}: ");
                 string? word = Console.ReadLine();
-                if (string.IsNullOrEmpty(word)) break;
+                if (word == null || word == "")break;
                 Options.Words.Add(word);
                 Console.WriteLine($"  Додано: {word}");
             }
