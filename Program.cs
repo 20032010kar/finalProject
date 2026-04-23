@@ -14,7 +14,7 @@ namespace finalProject
             Mutex mutex = new Mutex(false, "WordScanner_Instance");
             if (!mutex.WaitOne(0))
             {
-                Console.WriteLine("[!] Програма вже запущена!");
+                Console.WriteLine("Програма вже запущена");
                 return;
             }
             Console.CancelKeyPress += (_, e) =>
