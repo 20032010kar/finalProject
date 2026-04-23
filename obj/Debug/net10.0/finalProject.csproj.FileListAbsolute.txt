@@ -1,0 +1,14 @@
+C:\Users\Карина\source\repos\finalProject\finalProject\bin\Debug\net10.0\finalProject.exe
+C:\Users\Карина\source\repos\finalProject\finalProject\bin\Debug\net10.0\finalProject.deps.json
+C:\Users\Карина\source\repos\finalProject\finalProject\bin\Debug\net10.0\finalProject.runtimeconfig.json
+C:\Users\Карина\source\repos\finalProject\finalProject\bin\Debug\net10.0\finalProject.dll
+C:\Users\Карина\source\repos\finalProject\finalProject\bin\Debug\net10.0\finalProject.pdb
+C:\Users\Карина\source\repos\finalProject\finalProject\obj\Debug\net10.0\finalProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Карина\source\repos\finalProject\finalProject\obj\Debug\net10.0\finalProject.AssemblyInfoInputs.cache
+C:\Users\Карина\source\repos\finalProject\finalProject\obj\Debug\net10.0\finalProject.AssemblyInfo.cs
+C:\Users\Карина\source\repos\finalProject\finalProject\obj\Debug\net10.0\finalProject.csproj.CoreCompileInputs.cache
+C:\Users\Карина\source\repos\finalProject\finalProject\obj\Debug\net10.0\finalProject.dll
+C:\Users\Карина\source\repos\finalProject\finalProject\obj\Debug\net10.0\refint\finalProject.dll
+C:\Users\Карина\source\repos\finalProject\finalProject\obj\Debug\net10.0\finalProject.pdb
+C:\Users\Карина\source\repos\finalProject\finalProject\obj\Debug\net10.0\finalProject.genruntimeconfig.cache
+C:\Users\Карина\source\repos\finalProject\finalProject\obj\Debug\net10.0\ref\finalProject.dll
