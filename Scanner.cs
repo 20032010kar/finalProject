@@ -105,7 +105,7 @@ namespace finalProject
                 string content = File.ReadAllText(path);
                 char[] letters = content.ToCharArray();
                 int totalInFile = 0;
-                FileInfo fileInfo = new FileInfo(path); // Потрібно для розміру файлу у звіті
+                FileInfo fileInfo = new FileInfo(path); 
 
                 foreach (string word in Options.Words)
                 {
